@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Administration</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>850</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-19 03:34:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a15919900f9af2000d030dbce1050e95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Administration</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_a15919900f9af2000d030dbce1050e95</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-19 03:34:27</sys_updated_on>
+        <timeline_page/>
+        <title>Administration</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4ef56ea1db835bc0b2e05d00cf96194e</instance_id>
+        <instance_name>dev63295</instance_name>
+        <name>sys_app_module_a15919900f9af2000d030dbce1050e95</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Administration</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>850</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-19 03:34:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a15919900f9af2000d030dbce1050e95</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Administration</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_a15919900f9af2000d030dbce1050e95</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-19 03:34:27</sys_updated_on><timeline_page/><title>Administration</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1959471016</payload_hash>
+        <record_name>Administration</record_name>
+        <reverted_from/>
+        <source>be4395c4077330100f35f7208c1ed018</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-25 05:20:22</sys_created_on>
+        <sys_id>cc3a41cb072001100f35f7208c1ed037</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17df008681c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-25 05:20:22</sys_updated_on>
+        <type>Module</type>
+        <update_guid>0c3a41cb3520011040d5c7dc5b7a4337</update_guid>
+        <update_guid_history>0c3a41cb3520011040d5c7dc5b7a4337:0,53c31508507330102009f60381da74ba:-2006333377</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Administration">8d4a85cb072001100f35f7208c1ed0f1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-25 05:20:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>284b7360982b4501b86e0925bed000f9</sys_id>
+        <sys_metadata>a15919900f9af2000d030dbce1050e95</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Administration</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_app_module_a15919900f9af2000d030dbce1050e95</sys_update_name>
+        <sys_update_version display_value="sys_app_module_a15919900f9af2000d030dbce1050e95">cc3a41cb072001100f35f7208c1ed037</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-25 05:20:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
